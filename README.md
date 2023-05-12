@@ -27,3 +27,12 @@ we used two algorithms KMeans and Linear Regression , and Compar what is the bes
 after that we calc Evaluate the model (Mean Squared Error,R^2 Score) to Linear Regression and (Silhouette Score) to kmeans
 ### what is next step after select models and calc Evaluate?
 After select models and calc Evaluate we visualizations using plot,sccoterplt....else 
+
+### some visualizations and what we conclusion.
+
+<img width="235" alt="66666666666" src="https://github.com/0Ahmed2003/project_datamining/assets/121387438/f189762f-c2d4-4c86-8c14-a289794f0307">
+<img width="236" alt="555555555" src="https://github.com/0Ahmed2003/project_datamining/assets/121387438/d8243f1a-91ff-4b98-bea7-fed56d981cde">
+
+we conclused 2019 is the most year that moves has Released and
+we conclused 8 is the most Rating in moves 
+
