@@ -3,6 +3,8 @@ the data  set ues is  Netflix movie and tv_show ratings prediction.
 ### what is the idae of the project? 
 This project is an example of performing data mining techniques on a dataset useing  Python libraries and machine learning techniques to get models  to predict 
 movie and tv_show ratings.
+### Why we use this dataset?
+becouse we love the moves and we want to make project for it 
 ### what is the frist thing we do in  project?
 After of course we improt the most important library like pandas,numpy,seaborn and matplotlib . We start in pre_processing.
 ### What is the problems we face in pre_processing and how we solve it?
